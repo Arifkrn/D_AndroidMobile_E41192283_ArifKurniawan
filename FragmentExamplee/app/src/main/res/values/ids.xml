@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_first_page" type="id" />
+    <item name="btn_second_page" type="id" />
+    <item name="frame_layout" type="id" />
+</resources>
