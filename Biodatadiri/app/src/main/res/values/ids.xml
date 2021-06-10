@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button2" type="id" />
+    <item name="ListView1" type="id" />
+    <item name="tv_namaMain" type="id" />
+    <item name="button_logoutMain" type="id" />
+</resources>
